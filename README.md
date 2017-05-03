@@ -1,4 +1,4 @@
-##Speca
+## Speca
 
 Speca is about streaming and providing direct popularity to trending events and people, all without sacrificing the fun and creativity of a great User Interface. 
 * Capture up to 4 pictures and they will be automatically placed in a collage. 
